@@ -18,4 +18,4 @@ FEATURES Coin Name: L33T-Coin Algo: Proof of Stake Ticker: L33T Coin Type: PoS/M
 
 Mainnet:
 
-P2P port 1989 RPC port 1988
+P2P port 56374 RPC port 57374
